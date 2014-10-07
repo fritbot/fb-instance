@@ -1,0 +1,26 @@
+{
+  "name": "fritbot-instance",
+  "version": "0.0.0",
+  "private": true,
+
+  "author": "Michael Pratt",
+
+  "keywords": [
+    "fritbot",
+    "bot"
+  ],
+
+  "description": "The angriest bot",
+
+  "license": "MIT",
+
+  "dependencies": {
+    "fritbot":           "",
+    "fb-core-modules":   ""
+  },
+
+  "engines": {
+    "node": ">= 0.8.x",
+    "npm":  ">= 1.1.x"
+  }
+}
