@@ -13,9 +13,10 @@ Prerequisites
 Installation & Deployment
 ----
 
-1. Run `npm install` in this directory to install dependencies.
-2. Test it out in the shell by running `node index`
-3. Set up the connection to your favorite chat server. Connection configuration details are in the connector repositories, for example, the [XMPP Connector](https://github.com/Urthen/fb-xmpp-connector).
+1. Fork this repository and clone it to your machine
+2. Run `npm install` in your local directory to install dependencies.
+3. Test it out in the shell by running `node index`
+4. Set up the connection to your favorite chat server. Connection configuration details are in the connector repositories, for example, the [XMPP Connector](https://github.com/Urthen/fb-xmpp-connector).
 
 Further Configuration
 ----
