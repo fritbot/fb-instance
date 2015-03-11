@@ -8,7 +8,8 @@ Congratulations! You've taken the first step into Fritbot's sweet, sweet embrace
 Prerequisites
 ----
 
-* You must have node installed
+* You must have Node.js
+* You must have MongoDB installed and running
 
 Installation & Deployment
 ----
