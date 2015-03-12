@@ -16,7 +16,8 @@
 
   "dependencies": {
     "fritbot":           "",
-    "fb-core-modules":   ""
+    "fb-core-modules":   "",
+    "fb-xmpp-connector": ""
   },
 
   "engines": {
