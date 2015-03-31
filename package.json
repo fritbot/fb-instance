@@ -15,8 +15,11 @@
   "license": "MIT",
 
   "dependencies": {
-    "fritbot":           "",
-    "fb-core-modules":   ""
+    "fritbot":            "",
+    "fb-core-modules":    "",
+    "fb-xmpp-connector": "",
+    "fb-core-webui":      "",
+    "jade":               ""
   },
 
   "engines": {
