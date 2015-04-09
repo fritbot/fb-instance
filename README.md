@@ -1,7 +1,7 @@
 fb-instance
 ================
 
-Local instance template for Fritbot
+Local instance template for [Fritbot](https://github.com/Urthen/fritbot)
 
 Congratulations! You've taken the first step into Fritbot's sweet, sweet embrace. By cloning this repository, you're welcoming Fritbot into your life. You will be happier for it.
 
