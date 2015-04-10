@@ -1,4 +1,3 @@
-var bot_party = require('fritbot'),
-	bot = new bot_party.bot({});
+var bot = new (require('fritbot')).bot({});
 
 // bot.beginPhase('world_domination') //TODO
