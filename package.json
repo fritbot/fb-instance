@@ -1,11 +1,11 @@
 {
   "private": true,
   "dependencies": {
+    "fritbot": "latest"
     "fb-core-modules": "latest",
     "fb-core-webui": "latest",
-    "fb-pkg-funbox": "latest",
     "fb-xmpp-connector": "latest",
-    "fritbot": "latest"
+    "fb-pkg-funbox": "latest",
   },
   "engines": {
     "node": ">= 0.8.x",
