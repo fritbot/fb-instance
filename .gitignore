@@ -1,5 +1,6 @@
 # Config file
 config.yml
+config.sh
 
 # Logs
 logs
