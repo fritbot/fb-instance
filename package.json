@@ -1,12 +1,14 @@
 {
   "private": true,
-  "dependencies": {
-    "fritbot":            "",
-    "fb-core-modules":    "",
-    "fb-core-webui":      ""
-  },
   "engines": {
     "node": ">= 0.8.x",
     "npm":  ">= 1.1.x"
+  },
+  "dependencies": {
+    "fritbot":            "0.8.4",
+    "fb-core-modules":    "0.9.0",
+    "fb-xmpp-connector":  "0.5.4",
+    "fb-core-webui":      "0.2.3",
+    "fb-pkg-funbox":      "0.1.0"
   }
 }
